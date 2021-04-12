@@ -2456,7 +2456,6 @@ PRODUCT_PACKAGES += \
     imssettings \
     WfdService \
     dpmserviceapp \
-    ims \
     qcrilmsgtunnel \
     WfdCommon \
     com.qti.snapdragon.sdk.display \
